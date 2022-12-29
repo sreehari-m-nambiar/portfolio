@@ -1,3 +1,7 @@
 [submodule "portfolio/themes/hugo-coder"]
 	path = portfolio/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = git@github.com:sreehari-m-nambiar/sreehari-m-nambiar.github.io.git
+	branch = main
